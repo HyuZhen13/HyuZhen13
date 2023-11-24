@@ -8,7 +8,7 @@
 
 ## <picture><img src="" width=50px></picture> **About me**
 
-<picture> <img align="right" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.eco.br%2Fgifs-de-hacker%2F&psig=AOvVaw02cYwPCkWdg9yVdW6Y6wqD&ust=1700921321669000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjoluvn3IIDFQAAAAAdAAAAABBJ]" width=250px></picture>
+<picture> <img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.eco.br%2Fgifs-de-hacker%2F&psig=AOvVaw02cYwPCkWdg9yVdW6Y6wqD&ust=1700921321669000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjoluvn3IIDFQAAAAAdAAAAABBJ" width=250px></picture>
 
 <br>
 
