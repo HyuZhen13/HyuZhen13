@@ -6,7 +6,7 @@
 
 <br>
 
-## ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **About me**
 
 <picture> <img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.eco.br%2Fgifs-de-hacker%2F&psig=AOvVaw02cYwPCkWdg9yVdW6Y6wqD&ust=1700921321669000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjoluvn3IIDFQAAAAAdAAAAABBJ" width=250px></picture>
 
@@ -85,7 +85,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/HyuZhen13/HyuZhen13/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
